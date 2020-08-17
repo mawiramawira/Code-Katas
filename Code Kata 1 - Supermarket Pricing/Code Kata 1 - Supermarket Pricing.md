@@ -17,12 +17,14 @@ This kata involves no coding. The exercise is to experiment with various models 
 
 PERSONAL SOLUTION
 
-[] Get a real catalog of pricing in a supermarket
+[X] Get a real catalog of pricing in a supermarket
     - Walmart is probably the biggest retailer in US so we could use a sample from one of their
     bigger stores(to get more variety in pricing)
-    [] Check all the different ways things are priced and what could affect the pricing
-        [] Group them according to how similar they seem
-        [] Assign names to them and the kind of data involved
+    - Got the black-friday-2019 ad from https://www.bradsdeals.com/black-friday/walmart
+
+[] Check all the different ways things are priced and what could affect the pricing
+    [] Group them according to how similar they seem
+    [] Assign names to them and the kind of data involved
 
 [] Start thinking of a way to represent the prices  
     [] What scheme will we use? based on complexity of pricing? type of product? ...?
