@@ -22,12 +22,12 @@ PERSONAL SOLUTION
     bigger stores(to get more variety in pricing)
     - Got the black-friday-2019 ad from https://www.bradsdeals.com/black-friday/walmart
 
-[] Check all the different ways things are priced and what could affect the pricing
-    [] Group them according to how similar they seem
-    [] Assign names to them and the kind of data involved
+[X] Check all the different ways things are priced and what could affect the pricing
+    [X] Group them according to how similar they seem
+    [X] Assign names to them and the kind of data involved
 
-[] Start thinking of a way to represent the prices  
-    [] What scheme will we use? based on complexity of pricing? type of product? ...?
+[X] Start thinking of a way to represent the prices  
+    [X] What scheme will we use? based on complexity of pricing? type of product? ...?
 
 [] Test, iterate and improve process to a statisfactory threshold
 
