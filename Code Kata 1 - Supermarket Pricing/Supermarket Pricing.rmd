@@ -119,7 +119,8 @@ I also went to amazon and did a random search and looked at the price filters to
 e.g.
 ```{}
 def buyXGetYFree(product,X,Y):
-  product.setRealPrice(product.price.original/(X+Y))
+  newPrice = product.price.original/(X+Y)
+  product.setRealPrice(newPrice)
 
 def discount(product,pct):
   newPrice = product.price.original * (pct/100)
